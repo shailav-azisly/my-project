@@ -7,3 +7,5 @@ we are friends
 
 
 we are learning git
+
+we are at lecture 3
